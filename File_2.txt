@@ -1,3 +1,5 @@
 Plik testowy
 
+Plik tekstowy z info o plikach
+
 Nowa notatka dla tego pliku
