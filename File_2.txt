@@ -1,6 +1,3 @@
 Plik testowy
 
-
-Nowa notatka
-
-New File
+Nowa notatka dla tego pliku
